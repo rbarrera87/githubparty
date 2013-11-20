@@ -7,7 +7,7 @@ gem 'rails', '3.2.8'
 
 gem 'sqlite3'
 #comentario de Richard
-#comentario de un homeless
+#comentario de un homeless en San Francisco
 #ASDFASDFSDsd urI
 
 # Gems used only for assets and not required
